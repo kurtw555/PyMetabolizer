@@ -1,0 +1,9 @@
+numpy
+pandas
+pillow
+pip
+python-dateutil
+pytz
+rdkit
+six
+tzdata
